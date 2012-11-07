@@ -1,0 +1,1357 @@
+[
+  {
+    "id" : 48,
+    "name" : "C3X Lumis 3D S",
+    "created" : "2012-08-28 11:16:44",
+    "updated" : "2012-08-28 11:16:44",
+    "description" : "Projetor DLP de 3 Chips com 3D",
+    "featured" : false,
+    "price" : 325900,
+    "status" : 1,
+    "snapshot" : "6a0d5100671d9d0cbf568a93d5578b55.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 87,
+      "name" : "C3X Lumis",
+      "created" : "2012-08-14 17:32:08",
+      "updated" : "2012-08-14 17:32:08",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 82,
+        "name" : "f9f66a19000ccbcb9a613d0defee0e9c.jpg",
+        "created" : "2012-09-18 17:25:34",
+        "updated" : "2012-09-18 17:25:34",
+        "description" : "Distâncias de Projeção Sim 2 - Linha Lumis",
+        "file" : "f9f66a19000ccbcb9a613d0defee0e9c.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 270,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:33:17",
+        "updated" : "2012-10-02 18:33:17",
+        "detail" : "<p>Projetor Sim 2 Grand Cinema™ <b>C3X LUMIS 3D-S</b>. Tecnologia DLP de <b>3 chips</b> (<b>0,95\" DarkChip4™ DMD 1080p</b>) Sistema óptico <b>ALPHAPATH™</b>, taxa de <b>contraste</b> acima de <b>30.000:1 </b>em<b> 2D</b> e <b>10.000:1</b> em <b>3D.</b> Sistema de<b> Iris Ajustável</b> e tecnologia <b>DynamicBlack™</b>, Tecnologia “<b>3D TripleFlash</b>” 3 vezes a velocidade padrão dos sistemas 3D (72 quadros por segundo por olho), Tecnologia <b>PureMovie-PureMotion</b>, proprietários da Sim 2. Brilho ajustável até <b>3000 ANSI Lumens</b>, software “Live Color Calibration2”</p><p><b>Entradas Digitais: </b>2 x HDMI 1.4a - HDCP com DeepColor</p><p><b>*Não acompanha Emissor e óculos 3D necessários para visualização de conteúdo 3D.</b></p>",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 49,
+    "name" : "C3X Lumis",
+    "created" : "2012-08-28 11:17:30",
+    "updated" : "2012-08-28 11:17:30",
+    "description" : "Projetor DLP com 3 Chips",
+    "featured" : false,
+    "price" : 269900,
+    "status" : 1,
+    "snapshot" : "b53897c87e3ce8fdce28d7a332137ece.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 87,
+      "name" : "C3X Lumis",
+      "created" : "2012-08-14 17:32:08",
+      "updated" : "2012-08-14 17:32:08",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 83,
+        "name" : "353365d6a5e98a8de82d508664d82c17.jpg",
+        "created" : "2012-09-18 17:26:20",
+        "updated" : "2012-09-18 17:26:20",
+        "description" : "Distâncias de Projeção Sim 2 - Linha Lumis",
+        "file" : "353365d6a5e98a8de82d508664d82c17.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 269,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:31:11",
+        "updated" : "2012-10-02 18:31:11",
+        "detail" : "<p>Projetor Sim 2 Grand Cinema™ <b>C3X LUMIS UNO</b>. Tecnologia DLP de <b>3 chips</b> (<b>0,95\" DarkChip4™ DMD 1080p</b>) Sistema óptico <b>ALPHAPATH™</b>, <b>Contraste </b>de <b>9.000:1</b>. Brilho ajustável até <b>2000 Ansi Lumens</b>, software “Live Color Calibration”.&nbsp;</p><p><b>Entradas Digitais: </b>2 x HDMI 1.3 - HDCP com DeepColor</p><p><b>Entradas Analógicas:</b> 1 Composto, 1 S-Vídeo, 1 RGBVH (DB15), 1 Componente 3 Trigers 12V, 1 x RS232, 1 USB, 1 Ethernet (RJ45)</p>",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 50,
+    "name" : "C3X Lumis Uno",
+    "created" : "2012-08-28 11:18:53",
+    "updated" : "2012-08-28 11:18:53",
+    "description" : "Projetor DLP de 3 Chips",
+    "featured" : false,
+    "price" : 195500,
+    "status" : 1,
+    "snapshot" : "b6be7f47d99444506d4e9bb1515ded9c.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 87,
+      "name" : "C3X Lumis",
+      "created" : "2012-08-14 17:32:08",
+      "updated" : "2012-08-14 17:32:08",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 84,
+        "name" : "a1fabb37e86d92f187f058e4ba3d31cd.jpg",
+        "created" : "2012-09-18 17:26:55",
+        "updated" : "2012-09-18 17:26:55",
+        "description" : "Distâncias de Projeção Sim 2 - Linha Lumis",
+        "file" : "a1fabb37e86d92f187f058e4ba3d31cd.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 271,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-03 17:08:41",
+        "updated" : "2012-10-03 17:08:41",
+        "detail" : "<p>Projetor Sim 2 Grand Cinema™ <b>C3X LUMIS UNO</b>. Tecnologia <b>DLP</b> de<b> 3 chips</b> (<b>0,95\" DarkChip4™ DMD 1080p</b>) Sistema óptico <b>ALPHAPATH™</b>, <b>Contraste de 9.000:1</b>. Brilho ajustável até<b> 2000 Ansi Lumens</b>, software “Live Color Calibration”,&nbsp;</p><p><b>Entradas Digitais: </b>2 x HDMI 1.3 - HDCP com DeepColor&nbsp;</p><p><b>Entradas Analógicas:</b> 1 Composto, 1 S-Vídeo, 1 RGBVH (DB15), 1 Componente,&nbsp;3 Trigers 12V, 1 x RS232, 1 USB, 1 Ethernet (RJ45)</p><p><br></p>",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 51,
+    "name" : "C3X lite",
+    "created" : "2012-08-28 11:19:36",
+    "updated" : "2012-08-28 11:19:36",
+    "description" : "Projetor DLP de 3 Chips 720P",
+    "featured" : false,
+    "price" : 70600,
+    "status" : 1,
+    "snapshot" : "25b7bb0e7740b486b87ffc72f5ac316f.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 87,
+      "name" : "C3X Lumis",
+      "created" : "2012-08-14 17:32:08",
+      "updated" : "2012-08-14 17:32:08",
+      "description" : ""
+    },
+    "media_collection" : [],
+    "detail_collection" : [
+      {
+        "id" : 268,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:29:20",
+        "updated" : "2012-10-02 18:29:20",
+        "detail" : "<p>Projetor <b>Sim 2</b> - <b>C3X Lite</b>. Projetor DLP com <b>3 chips DLP</b>, HD2 + DC3 (1280x720), componentes ópticos especiais que estão entre os mais importantes e que definem a qualidade da imagem: lentes e prisma. <b>Contraste + 5500:1</b>.&nbsp;</p><p><b>Entradas:</b> 2 vídeo, 2 S-Vídeo, 2 RGB via DB 15, 4 RGB H/V/Y CR CB H/V configuráveis 1HDMI, RS 232.</p><p><b>OBS</b>: Versões T1 lente de curto alcance e T2 lente de longo alcance.</p><p><br></p>",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 52,
+    "name" : "Nero 3D 2",
+    "created" : "2012-08-28 11:20:24",
+    "updated" : "2012-08-28 11:20:24",
+    "description" : "Projetor DLP de 1 Chip com 3D",
+    "featured" : false,
+    "price" : 147500,
+    "status" : 1,
+    "snapshot" : "f98bbba4603372abdca8148cd5bfd316.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 88,
+      "name" : "NERO",
+      "created" : "2012-08-14 17:32:23",
+      "updated" : "2012-08-14 17:32:23",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 88,
+        "name" : "710660d5cea8c0234d346c7f9a870276.jpg",
+        "created" : "2012-09-18 17:51:22",
+        "updated" : "2012-09-18 17:51:22",
+        "description" : "Distância de Projeção Sim 2 - Nero 3D 2",
+        "file" : "710660d5cea8c0234d346c7f9a870276.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 258,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:12:09",
+        "updated" : "2012-10-02 18:12:09",
+        "detail" : "<p>Projetor Sim2 <b>NERO-3D 2</b>. Projetor <b>State-of-the-Art DLP</b> de um chip (<b>0,95\" DarkChip4™ DMD 1080p</b>) Sistema óptico<b> ALPHAPATH™</b>, taxa de <b>contraste</b> acima de <b>30.000:1</b> em 2D. Sistema <b>BrilhantColor™</b> e tecnologia <b>DynamicBlack™</b>, Tecnologia <b>PureMovie-</b></p><p><b>PureMotion</b>, proprietários da Sim 2. Brilho ajustável até <b>2000 ANSI Lumens</b>, software “Live Color Calibration2”.</p><p><b>Melhor projetor de um Chip da Sim2 para imagens 2D.</b></p><p><b>Entradas Digitais:</b> 2 x HDMI 1.4a - HDCP com DeepColor</p><p><b>*Não acompanha Emissor e óculos 3D necessários para visualização de conteúdo 3D.</b></p>",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 53,
+    "name" : "Nero 3D 1",
+    "created" : "2012-08-28 11:24:46",
+    "updated" : "2012-08-28 11:24:46",
+    "description" : "Projetor DLP de 1 Chip com 3D",
+    "featured" : false,
+    "price" : 95900,
+    "status" : 1,
+    "snapshot" : "2bd0f21956a6773129689f02228bb4a0.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 88,
+      "name" : "NERO",
+      "created" : "2012-08-14 17:32:23",
+      "updated" : "2012-08-14 17:32:23",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 89,
+        "name" : "af95ac265091ff178940549883f9e49e.jpg",
+        "created" : "2012-09-18 17:51:59",
+        "updated" : "2012-09-18 17:51:59",
+        "description" : "Distância de Projeção Sim 2 - Nero 3D 1",
+        "file" : "af95ac265091ff178940549883f9e49e.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 257,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:10:08",
+        "updated" : "2012-10-02 18:10:08",
+        "detail" : "<p>Projetor <b>Sim2 NERO-3D 1</b>. Projetor DLP de um chip (<b>0,95\" DarkChip4™ DMD 1080p</b>)</p><p>Sistema óptico <b>ALPHAPATH™</b>, taxa de <b>contraste</b> acima de <b>10.000:1</b> em 2D. Sistema</p><p><b>BrilhantColor™</b> e Tecnologia <b>PureMovie-PureMotion</b>, proprietários da Sim 2. Brilho</p><p>ajustável até <b>1.600 ANSI Lumens</b>, software “Live Color Calibration2”</p><p><b>Entradas Digitais:</b> 2 x HDMI 1.4a - HDCP com DeepColor</p><p>*<b>Não acompanha Emissor e óculos 3D necessários para visualização de conteúdo 3D.</b></p>",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 54,
+    "name" : "PureLed Mico 50",
+    "created" : "2012-08-28 11:25:42",
+    "updated" : "2012-08-28 11:25:42",
+    "description" : "Projetor DLP com 1 Chip e 3 LEDs como fonte de luz",
+    "featured" : false,
+    "price" : 137500,
+    "status" : 1,
+    "snapshot" : "dab33d7a00ab9723a4be50269d1eb776.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 89,
+      "name" : "PureLed Mico",
+      "created" : "2012-08-14 17:32:35",
+      "updated" : "2012-08-14 17:32:35",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 85,
+        "name" : "5606978dd6bbdfee02fbe26a69477cef.jpg",
+        "created" : "2012-09-18 17:43:24",
+        "updated" : "2012-09-18 17:43:24",
+        "description" : "Distância de Projeção Sim 2 - Mico 50",
+        "file" : "5606978dd6bbdfee02fbe26a69477cef.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 259,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:14:43",
+        "updated" : "2012-10-02 18:14:43",
+        "detail" : "<p>Projetor Sim 2 Grand Cinema™ <b>PureLed Mico 50</b>. Primeiro projetor Sim2 a usar<b> LEDs</b> como fonte de luz. Tecnologia DLP® LED FULL-HD com 1 chip DMD (<b>0.95\" 1080p DarkChip 4</b>). O sistema <b>Luminus Phlatlight PT120</b> conta com três painéis de LEDs (R,G,B) de alta potência, dispensando o uso de Color Wheel, que em conjunto com <b>DynamicBlack™</b> atingem fantásticos <b>100.000:1 </b>de taxa de<b> contraste</b>. O PureLed Mico 50 utiliza sistema de <b>refrigeração líquida</b>, o que torna o projetor ultra silencioso e possibilita uma <b>vida útil estimada</b> dos LEDs de <b>30.000 horas</b>. Ajustes especiais, Redução de ruídos, Luma e Transição Chroma, temperatura de cor, Gama, Crop e conta com memórias para salvar os ajustes. <b>800 ANSI Lumens</b>.</p><p><b>Entradas Digitais:</b> 2 x HDMI 1.3 – HDCP</p>",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 55,
+    "name" : "PureLed Mico 40",
+    "created" : "2012-08-28 11:26:15",
+    "updated" : "2012-08-28 11:26:15",
+    "description" : "Projetor DLP com 1 Chip e 3 LEDs como fonte de luz",
+    "featured" : false,
+    "price" : 79900,
+    "status" : 1,
+    "snapshot" : "7cb31945577d30b25291cabf44886d63.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 89,
+      "name" : "PureLed Mico",
+      "created" : "2012-08-14 17:32:35",
+      "updated" : "2012-08-14 17:32:35",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 86,
+        "name" : "c727beaa6be5095c0d81f80164556d0c.jpg",
+        "created" : "2012-09-18 17:43:48",
+        "updated" : "2012-09-18 17:43:48",
+        "description" : "Distância de Projeção Sim 2 - Mico 40",
+        "file" : "c727beaa6be5095c0d81f80164556d0c.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 260,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:16:19",
+        "updated" : "2012-10-02 18:16:19",
+        "detail" : "<p>Projetor Sim 2 Grand Cinema™ <b>PureLed Mico 40</b>. Tecnologia DLP® LED FULL-HD com 1 chip DMD <b>(0.95\" 1080p DarkChip 3</b>). O sistema <b>Luminus Phlatlight PT120</b> conta com três painéis de LEDs (R,G,B) de alta potência, dispensando o uso de Color Wheel, que em conjunto com <b>DynamicBlack™</b> atingem <b>50.000:1</b> de taxa de <b>contraste</b>. O PureLED Mico 40 utiliza sistema de <b>refrigeração líquida</b>, o que torna o projetor ultra silencioso e possibilita uma <b>vida útil estimada</b> dos LEDs de <b>30.000 horas</b>. <b>700 ANSI Lumens.</b></p><p><b>Entradas Digitais:</b> 2 x HDMI 1.3 – HDCP</p>",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 56,
+    "name" : "Crystal 45",
+    "created" : "2012-08-28 11:28:09",
+    "updated" : "2012-08-28 11:28:09",
+    "description" : "Projetor DLP de 1 Chip",
+    "featured" : false,
+    "price" : 44900,
+    "status" : 1,
+    "snapshot" : "581ea543d8207a59bbb096bf1a091034.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 90,
+      "name" : "Crystal",
+      "created" : "2012-08-14 17:32:44",
+      "updated" : "2012-08-14 17:32:44",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 87,
+        "name" : "72310b16d2f047bf9c1dd8a277c572f9.jpg",
+        "created" : "2012-09-18 17:49:12",
+        "updated" : "2012-09-18 17:49:12",
+        "description" : "Distância de Projeção Sim 2 - Crystal 45",
+        "file" : "72310b16d2f047bf9c1dd8a277c572f9.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 263,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:24:14",
+        "updated" : "2012-10-02 18:24:14",
+        "detail" : "<p>Projetor <b>Sim 2 Crystal 45</b> Glass White. Tecnologia <b>DLP</b> de um chip (<b>0,65\" DarkChip2™ DMD 1080p</b>). Desenhado por Giorgio Revoldini, ele possui acabamento em vidro na parte superior e frontal e está disponível <b>somente em Branco</b>. <b>DynamicBlack™</b>,</p><p><b>BriliantColor™</b>, Advanced Lamp Control (Controle por pulso duplo – Um pulso pra brilho, um pulso pra contraste o que garante cores mais vibrantes, pretos mais pretos e brancos mais brancos) tecnologias proprietárias da Sim 2. <b>Brilho 3.000 Ansi Lumens</b>, taxa de <b>contraste de 50.000:1</b>. <br><b>Entradas Digitais:</b> 2 x HDMI 1.3 - HDCP com DeepColor.&nbsp;Processamento de vídeo de 10 bits.&nbsp;</p><p>Acompanha 2 controles.</p>",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 57,
+    "name" : "Crystal 35",
+    "created" : "2012-08-28 11:28:38",
+    "updated" : "2012-08-28 11:28:38",
+    "description" : "Projetor DLP de 1 Chip",
+    "featured" : false,
+    "price" : 28950,
+    "status" : 1,
+    "snapshot" : "42a2b9ec9f3fe39f022c322eec3129c8.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 90,
+      "name" : "Crystal",
+      "created" : "2012-08-14 17:32:44",
+      "updated" : "2012-08-14 17:32:44",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 81,
+        "name" : "62eaacb9ee740ca7bfddcc6f824ffa1a.jpg",
+        "created" : "2012-09-18 17:06:04",
+        "updated" : "2012-09-18 17:06:04",
+        "description" : "Distância de Projeção - Crystal 35",
+        "file" : "62eaacb9ee740ca7bfddcc6f824ffa1a.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 262,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:22:28",
+        "updated" : "2012-10-02 18:22:28",
+        "detail" : "<p>Projetor<b> Sim 2 Crystal 35</b>. Tecnologia <b>DLP</b> de um chip (<b>0,65\" DarkChip2™ DMD 1080p</b>). Desenhado por Giorgio Revoldini, ele possui<b> acabamento em vidro</b> na parte superior e frontal e está disponível em Preto e Branco. <b>DynamicBlack™</b>,<b> BriliantColor™</b>, Advanced Lamp Control (Controle por pulso duplo – Um pulso pra brilho, um pulso pra contraste o que garante cores mais vibrantes, pretos mais pretos e brancos mais brancos) tecnologias proprietárias da Sim 2. <b>Brilho 2.500 Ansi Lumens</b>, taxa de <b>contraste de 30.000:1</b>.&nbsp;</p><p><b>Entradas Digitais:</b> 2 x HDMI 1.3 - HDCP com DeepColor. Processamento de vídeo de 10 bits.</p><p>Acompanha 2 controles.</p>",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 213,
+    "name" : "Lentes Panamórficas Sim 2 - ISCO",
+    "created" : "2012-09-18 11:41:22",
+    "updated" : "2012-09-18 11:41:22",
+    "description" : "Lentes Panamórficas Sim 2 - ISCO",
+    "featured" : false,
+    "price" : 97500,
+    "status" : 1,
+    "snapshot" : "cea2e399ace23e007a899b13897c3bde.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 91,
+      "name" : "Acessórios",
+      "created" : "2012-08-14 17:32:54",
+      "updated" : "2012-08-14 17:32:54",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 80,
+        "name" : "7c6c3bab15a0cec70ed443965be5ecb6.jpg",
+        "created" : "2012-09-18 12:12:25",
+        "updated" : "2012-09-18 12:12:25",
+        "description" : "Lentes Panamórficas Sim 2 - ISCO",
+        "file" : "7c6c3bab15a0cec70ed443965be5ecb6.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 264,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:25:35",
+        "updated" : "2012-10-02 18:25:35",
+        "detail" : "<b>Sistema de lente Isco</b>, especialmente projetada para usar em conjunto com projetores Sim2 permitindo o uso da resolução total dos chips DLP <b>1:78 para filmes em 2.35</b>. Dessa maneira conseguimos obter o máximo desempenho em experiência cinematográfica, já que este é o padrão dos cinemas e da maioria do novos blockbusters. Conjunto&nbsp;Ótico&nbsp;da ISCO/Schneider. sistema totalmente automatizado.",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 214,
+    "name" : "Lentes Panamórficas Sim 2 - Panamorph",
+    "created" : "2012-09-18 11:43:08",
+    "updated" : "2012-09-18 11:43:08",
+    "description" : "Lentes Panamórficas Sim 2 - Panamorph",
+    "featured" : false,
+    "price" : 47900,
+    "status" : 1,
+    "snapshot" : "525e07738f4fceb43d940ece528b4547.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 91,
+      "name" : "Acessórios",
+      "created" : "2012-08-14 17:32:54",
+      "updated" : "2012-08-14 17:32:54",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 76,
+        "name" : "4ba90dafc2c7efbcf6bbb44431a3fc36.jpg",
+        "created" : "2012-09-18 11:43:39",
+        "updated" : "2012-09-18 11:43:39",
+        "description" : "Lentes Panamórficas Sim 2 - Panamorph",
+        "file" : "4ba90dafc2c7efbcf6bbb44431a3fc36.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 261,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:20:46",
+        "updated" : "2012-10-02 18:20:46",
+        "detail" : "<p><b>Sistema de lente Panamorph</b>, especialmente projetada para usar em conjunto com projetores Sim2 permitindo o uso da resolução total dos chips DLP<b> 1:78 para filmes em 2.35.</b> Dessa maneira conseguimos obter o máximo desempenho em experiência cinematográfica, já que este é o padrão dos cinemas e da maioria do novos blockbusters.</p><p>Conjunto&nbsp;Ótico&nbsp;Panamorph, sistema totalmente automatizado.</p><p><br></p>",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 215,
+    "name" : "Kit Visus 3D - Standard",
+    "created" : "2012-09-18 11:52:52",
+    "updated" : "2012-09-18 11:52:52",
+    "description" : "Kit Visus 3D - Standard \r\n4 Óculos e 1 Emissor 3D",
+    "featured" : false,
+    "price" : 6690,
+    "status" : 1,
+    "snapshot" : "a88cdf024717bc0a35f052000ccc2fb8.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 91,
+      "name" : "Acessórios",
+      "created" : "2012-08-14 17:32:54",
+      "updated" : "2012-08-14 17:32:54",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 77,
+        "name" : "e19f7b8f34a8c2c92ff24d6fa573c68e.jpg",
+        "created" : "2012-09-18 11:53:39",
+        "updated" : "2012-09-18 11:53:39",
+        "description" : "Kit Visus Standard - 4 Óculos + Emissor 3D",
+        "file" : "e19f7b8f34a8c2c92ff24d6fa573c68e.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 265,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:26:38",
+        "updated" : "2012-10-02 18:26:38",
+        "detail" : "Kit <b>Sim 2 VISUS</b> Active Glasses + 3D Emitter. Kit composto por <b>4 Óculos Ativos</b> e mais o emissor (sincronizador 3D) para os projetores 3D da Sim2 (C3X Lumis 3Ds, Nero 3D 2 e Nero 3D 1).",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 216,
+    "name" : "Kit Visus Top - 8 Óculos + Embalagem especial",
+    "created" : "2012-09-18 11:54:39",
+    "updated" : "2012-09-18 11:54:39",
+    "description" : "Kit Visus Top - 8 Óculos + Embalagem especial",
+    "featured" : false,
+    "price" : 12900,
+    "status" : 1,
+    "snapshot" : "bf7c7059d2e41941f51a654b923467d8.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 91,
+      "name" : "Acessórios",
+      "created" : "2012-08-14 17:32:54",
+      "updated" : "2012-08-14 17:32:54",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 78,
+        "name" : "c74256c4cd347310770ca2762f83acd1.jpg",
+        "created" : "2012-09-18 11:55:09",
+        "updated" : "2012-09-18 11:55:09",
+        "description" : "Kit Visus Top - 8 Óculos + Embalagem especial",
+        "file" : "c74256c4cd347310770ca2762f83acd1.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 267,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:28:14",
+        "updated" : "2012-10-02 18:28:14",
+        "detail" : "Kit <b>Sim 2 VISUS</b> Active Glasses. Kit composto por <b>8 Óculos Ativos</b> (Embalagens Especias) para os projetores 3D da Sim2 (C3X Lumis 3Ds, Nero 3D 2 e Nero 3D 1).",
+        "media_collection" : []
+      }
+    ]
+  },
+  {
+    "id" : 217,
+    "name" : "Kit Visus Top - 7 Óculos + Embalagem especial + Emissor 3D",
+    "created" : "2012-09-18 11:56:04",
+    "updated" : "2012-09-18 11:56:04",
+    "description" : "Kit Visus Top - 7 Óculos + Embalagem especial + Emissor 3D",
+    "featured" : false,
+    "price" : 12900,
+    "status" : 1,
+    "snapshot" : "f2d81d7f410da6d472fd2a38f4f85496.png",
+    "brand" : {
+      "id" : 32,
+      "name" : "Sim 2",
+      "created" : "2012-08-14 16:59:17",
+      "updated" : "2012-08-14 16:59:17",
+      "image" : "2aebbda4b1c79ffb1364045742d5ba96.png",
+      "image_ipad" : {
+        "normal" : "normal_2aebbda4b1c79ffb1364045742d5ba96.png",
+        "retina" : "retina_2aebbda4b1c79ffb1364045742d5ba96.png"
+      },
+      "description" : "Com uma equipe permanente de 130 funcionários, dos quais 35 estão engajados no Departamento de Pesquisa e Desenvolvimento, a SIM2 Multimidia, com sede na Itália, é um dos principais fabricantes de produtos para home-thater (com tecnologia CRT, LCD e DLP™) e líder no fornecimento de soluções profissionais de nível hi-end para o mercado varejista, de grandes ambientes e institucional.\r\n\r\n\tNo decorrer de sua história, a SIM2 conquistou uma invejável reputação por atender às demandas da indústria por novas tecnologias emergentes, oferecendo alta qualidade, design inovador e soluções eficazes, confiáveis e intuitivas, para atender às exigências de seus clientes em qualquer tipo de aplicação.\r\n\r\n\tAs políticas de marketing da SIM 2 são orientadas para o mercado mundial, com uma presença direta na Itália (matriz), Alemanha, Reino Unido e Estados Unidos (subsidiárias). Sua seleta distribuição em mais de 45 países é realizada através de parcerias com distribuidores altamente qualificados (como a Som Maior, no Brasil), todos oferecendo os mesmos excelentes padrões de suporte ao cliente proporcionados pela própria matriz da SIM2.",
+      "line_collection" : [
+        {
+          "id" : 87,
+          "name" : "C3X Lumis",
+          "created" : "2012-08-14 17:32:08",
+          "updated" : "2012-08-14 17:32:08",
+          "description" : ""
+        },
+        {
+          "id" : 88,
+          "name" : "NERO",
+          "created" : "2012-08-14 17:32:23",
+          "updated" : "2012-08-14 17:32:23",
+          "description" : ""
+        },
+        {
+          "id" : 89,
+          "name" : "PureLed Mico",
+          "created" : "2012-08-14 17:32:35",
+          "updated" : "2012-08-14 17:32:35",
+          "description" : ""
+        },
+        {
+          "id" : 90,
+          "name" : "Crystal",
+          "created" : "2012-08-14 17:32:44",
+          "updated" : "2012-08-14 17:32:44",
+          "description" : ""
+        },
+        {
+          "id" : 91,
+          "name" : "Acessórios",
+          "created" : "2012-08-14 17:32:54",
+          "updated" : "2012-08-14 17:32:54",
+          "description" : ""
+        }
+      ],
+      "email" : "",
+      "phone" : "",
+      "url" : "http://www.sim2.com/home/en"
+    },
+    "line" : {
+      "id" : 91,
+      "name" : "Acessórios",
+      "created" : "2012-08-14 17:32:54",
+      "updated" : "2012-08-14 17:32:54",
+      "description" : ""
+    },
+    "media_collection" : [
+      {
+        "id" : 79,
+        "name" : "ce831d09c0a48dc95ead9a6271e283b1.jpg",
+        "created" : "2012-09-18 11:56:36",
+        "updated" : "2012-09-18 11:56:36",
+        "description" : "Kit Visus Top - 7 Óculos + Embalagem especial + Emissor 3D",
+        "file" : "ce831d09c0a48dc95ead9a6271e283b1.jpg",
+        "type" : 1
+      }
+    ],
+    "detail_collection" : [
+      {
+        "id" : 266,
+        "name" : "Especificações Técnicas",
+        "created" : "2012-10-02 18:27:33",
+        "updated" : "2012-10-02 18:27:33",
+        "detail" : "<p>Kit <b>Sim 2 VISUS</b> Active Glasses + 3D Emitter. Kit composto por <b>7 Óculos Ativos</b> (Embalagens Especias) e mais<b> 1 emissor </b>(sincronizador 3D) para os projetores 3D da Sim2 (C3X Lumis 3Ds, Nero 3D 2 e Nero 3D 1).</p><p><br></p>",
+        "media_collection" : []
+      }
+    ]
+  }
+]

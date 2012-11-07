@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "MasterViewController.h"
 
 @implementation AppDelegate
 
@@ -15,6 +16,12 @@
     // Override point for customization after application launch.
     if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad) {
         UISplitViewController *splitViewController = (UISplitViewController *)self.window.rootViewController;
+        
+        UINavigationController *masterNavigationController = [splitViewController.viewControllers objectAtIndex:0];
+        UIStoryboard *storyBoard = [UIStoryboard storyboardWithName:@"MainStoryboard_iPhone" bundle:nil];
+        MasterViewController *master = [storyBoard instantiateViewControllerWithIdentifier:@"MasterView"];
+        [masterNavigationController pushViewController:master animated:NO];
+        
         UINavigationController *navigationController = [splitViewController.viewControllers lastObject];
         splitViewController.delegate = (id)navigationController.topViewController;
     }
